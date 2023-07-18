@@ -1,1 +1,1 @@
-# vertical_data_format
+# vertical data format algorithm from scratch
